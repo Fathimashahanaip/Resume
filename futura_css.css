@@ -1,0 +1,22 @@
+body{
+    background-image: url("downlo.jfif");
+    background-size:1500px 900px;
+    color:white;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+
+}
+
+.hrbutton {
+    color: #fff;
+    background: linear-gradient(95.04deg, #FFAA3F 0.82%, #F35B04 97.35%);
+    border: 0;
+    transition: all .5s;
+}
+.container-fluid{
+    background-color: white;
+}
+.enable{
+    color: white;
+}
